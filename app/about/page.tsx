@@ -280,7 +280,7 @@ export default function AboutPage() {
           </h2>
 
           <p className="text-gray-700 text-lg mb-8 max-w-2xl mx-auto">
-            Discover unique flavors, meet amazing people, and support a store built on culture, care, and community spirit.
+            Discover Unique flavors, meet amazing people, and support a store built on culture, care, and community spirit.
           </p>
 
           <div className="flex flex-col sm:flex-row gap-4 justify-center">
